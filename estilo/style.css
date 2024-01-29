@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+
+:root {
+    --azul1:#371be4;
+    --azul2:#2a14ca;
+    --azul3:#1c0daf;
+    --azul4:#0e0795;
+    --azul5:#00007a;
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color:#1c0daf;
+}
+
+body {
+    background-color:white;
+}
+
+footer {
+    background-color: #00007a;
+}
